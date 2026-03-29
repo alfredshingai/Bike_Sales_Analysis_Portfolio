@@ -102,10 +102,9 @@ Secondary target: Skilled Manual workers in Europe with short commutes — addre
 
 ## 👤 Author
 
-**[Your Name]**
-📧 [your.email@example.com]
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
-🌍 [Portfolio Website](https://yourwebsite.com)
+**Alfred Shingai**
+[tinonetsanaa@gmail.com]
+
 
 ---
 
