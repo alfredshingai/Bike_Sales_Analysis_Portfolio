@@ -9,7 +9,7 @@
 
 ##  Project Overview
 
-This project analyses a dataset of 1,000 customers to uncover what drives bike purchases. The goal was to identify the highest-converting customer segments and generate actionable business recommendations — all built in Microsoft Excel.
+This project analyses a dataset of 1,000 customers to uncover what drives bike purchases. The goal was to identify the highest-converting customer segments and generate actionable business recommendations — all built in Microsoft Excel and Power BI.
 
 ---
 
@@ -83,6 +83,7 @@ Secondary target: Skilled Manual workers in Europe with short commutes — addre
 ##  Tools Used
 
 - **Microsoft Excel** — Data cleaning, pivot tables, charts, dashboard design
+- **Power BI** — Dashboard design
 - **Formulas used:** `IF`, `AVERAGE`, `SUM`, `COUNTIFS`, `IFERROR`, conditional formatting rules
 
 ---
